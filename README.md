@@ -54,6 +54,6 @@ An interactive singing-practice web application featuring YouTube playback, sync
 
 I'm based in **Gdańsk, Poland** and exploring **internship and junior opportunities**, especially in software quality and data analytics. I also enjoy collaborating on projects that combine technology, product thinking, and creative storytelling.
 
-<sub><i><a href="mailto:gg1saurav@gmail.com">gg1saurav@gmail.com</a></i></sub>
+<sub><i><span style="color: #888888;">Your email address</span></i></sub>
 
 **[Explore my repositories](https://github.com/saurvv1?tab=repositories)**
