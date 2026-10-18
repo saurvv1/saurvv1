@@ -31,6 +31,16 @@ Before focusing more on software, I worked on digital content creation and YouTu
 
 That experience shaped how I think about **audience attention, presentation, creative experimentation, and user experience**.
 
+<details>
+<summary><strong>View content creation milestones (analytics screenshots)</strong></summary>
+<br>
+<p align="center">
+  <img src="First_Channel_Demography_Views.jpg" alt="YouTube channel analytics showing view performance" width="48%" />
+  <img src="emchan%20subs.png" alt="YouTube subscriber analytics screenshot" width="48%" />
+</p>
+<p align="center"><sub>Selected analytics screenshots from past content projects.</sub></p>
+</details>
+
 ### 🚀 Featured project: [SingAlong](https://github.com/saurvv1/SingAlong)
 
 An interactive singing-practice web application featuring YouTube playback, synchronized lyrics, microphone recording, and AI-assisted vocal separation.
