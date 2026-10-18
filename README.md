@@ -50,10 +50,8 @@ An interactive singing-practice web application featuring YouTube playback, sync
 **Tools:** Git, GitHub, FFmpeg  
 **Currently learning:** Software testing, test automation, SQL, data analytics, and business intelligence
 
-### 🤝 Let's connect (gg1saurav@gmail.com)
+### 🤝 Let's connect gg1saurav@gmail.com
 
 I'm based in **Gdańsk, Poland** and exploring **internship and junior opportunities**, especially in software quality and data analytics. I also enjoy collaborating on projects that combine technology, product thinking, and creative storytelling.
-
-gg1saurav@gmail.com
 
 **[Explore my repositories](https://github.com/saurvv1?tab=repositories)**
