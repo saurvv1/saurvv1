@@ -1,50 +1,58 @@
 # Hi, I'm Saurav 👋
 
-**MSc Informatics student · Gdańsk, Poland**  
-**Exploring Software Quality Assurance, Data Analytics & Business Intelligence**
+**Master's student in Informatics · Gdańsk University of Technology, Poland**  
+**Software QA & Data Analytics · Product Design & Creative Media**
 
-I'm a Computer Science graduate currently studying Informatics at **Gdańsk University of Technology**. I enjoy understanding how software works, identifying problems, and building practical solutions.
+I'm a Computer Science graduate **currently pursuing my master's degree in Informatics**. I like looking at products from both sides: **how they work** and **how people experience them**.
 
-I'm developing my skills through hands-on projects and looking for **internship or junior opportunities in QA/software testing and data analytics/BI**.
+I enjoy finding bugs, spotting usability problems, and figuring out how software can be improved. I'm equally drawn to the creative side of products — **branding, typography, logos, visual identity, product design, and marketing**. My interests also extend to filmmaking, sound design, and music production.
 
-### 🔎 My focus
+I'm building technical projects while exploring **QA/software testing and data analytics/BI** opportunities in Europe.
 
-- **Software QA:** Manual testing, writing test cases, documenting bugs, and exploring API testing and automation.
-- **Data & BI:** Developing skills in SQL, Python-based analysis, reporting, and visualization.
-- **Software development:** Building useful applications and improving them through feedback and testing.
+### 🔎 Areas I'm exploring
+
+- **Quality assurance:** Designing test scenarios, reporting bugs, examining user journeys, and learning API testing and automation.
+- **Data analytics & BI:** Developing skills in SQL, Python-based analysis, reporting, and visualization.
+- **Product & design:** Branding, typography, logo design, product experience, and communicating what makes a product valuable.
+- **Creative production:** Video storytelling, short-form content, filmmaking, sound design, and music production.
+
+### 🎬 Creative background
+
+Before focusing more on software, I worked on digital content creation and YouTube channel building.
+
+- Built YouTube channels that collectively reached **50M+ views**.
+- Created short-form content for **YouTube and Instagram** that reached **millions of views**.
+- Explored video production, editing, visual storytelling, sound design, filmmaking, and music production.
+
+That experience shaped how I think about **audience attention, presentation, creative experimentation, and user experience**.
+
+### 🧪 Current master's thesis
+
+I'm working on a thesis exploring **LLM-assisted company and investment analysis**: combining **financial data and textual information about companies** to extract useful signals, summarize findings, and investigate ways to support investment evaluation.
+
+The goal is to develop and assess a practical analysis workflow — **work in progress, not an investment recommendation system**.
 
 ### 🚀 Featured project: [SingAlong](https://github.com/saurvv1/SingAlong)
 
-An interactive application for practicing singing with YouTube playback, synchronized lyrics, microphone recording, and AI-assisted vocal separation.
+An interactive singing-practice web application featuring YouTube playback, synchronized lyrics, microphone recording, and AI-assisted vocal separation.
 
-**Stack:** React · TypeScript · Python · FastAPI · FFmpeg · Demucs
+**Built with:** React · TypeScript · Python · FastAPI · FFmpeg · Demucs
 
-- Developed an interactive audio-focused web application.
-- Integrated playback, lyrics, recording, and audio-processing workflows.
-- Documented [manual QA scenarios and a bug-report template](https://github.com/saurvv1/SingAlong/blob/main/QA_TEST_PLAN.md) to guide future testing.
-- Published a limited [live demo](https://saurvv1.github.io/SingAlong/) on GitHub Pages; some features require running the full application locally.
+- Developed an audio-focused web application combining playback, recording, lyrics, and audio processing.
+- Documented a [manual QA test plan and bug-report template](https://github.com/saurvv1/SingAlong/blob/main/QA_TEST_PLAN.md) to guide testing.
+- Published a [limited live demo](https://saurvv1.github.io/SingAlong/) on GitHub Pages; backend-dependent features require local setup.
 
-**[Explore the repository →](https://github.com/saurvv1/SingAlong)** &nbsp;·&nbsp; **[Live demo →](https://saurvv1.github.io/SingAlong/)** &nbsp;·&nbsp; **[QA test plan →](https://github.com/saurvv1/SingAlong/blob/main/QA_TEST_PLAN.md)**
+**[Source code →](https://github.com/saurvv1/SingAlong)** · **[Live demo →](https://saurvv1.github.io/SingAlong/)** · **[QA test plan →](https://github.com/saurvv1/SingAlong/blob/main/QA_TEST_PLAN.md)**
 
-### 🛠️ Technologies I've used
+### 🛠️ Technical toolkit
 
 **Programming:** Python, TypeScript, JavaScript  
 **Web:** React, Vite, FastAPI  
-**Tools & workflows:** Git, GitHub, FFmpeg
+**Tools:** Git, GitHub, FFmpeg  
+**Currently learning:** Software testing, test automation, SQL, data analytics, and business intelligence
 
-**Currently learning / exploring:** QA methodologies, automated testing, SQL, data analytics, and business intelligence.
+### 🤝 Let's connect
 
-### 📌 What I'm working toward
+I'm based in **Gdańsk, Poland** and exploring **internship and junior opportunities**, especially in software quality and data analytics. I also enjoy collaborating on projects that combine technology, product thinking, and creative storytelling.
 
-- Turning test plans into executed, reproducible test reports and automated checks.
-- Building data projects that demonstrate analysis and clear communication.
-- Contributing to teams where software quality and evidence-based problem solving matter.
-
-### 🤝 Connect
-
-I'm based in **Gdańsk, Poland** and interested in internship and junior opportunities across Europe.
-
-**[GitHub projects](https://github.com/saurvv1?tab=repositories)**
-
----
-*I prefer showcasing real projects and documented work over long lists of unverified skills.*
+**[Explore my repositories](https://github.com/saurvv1?tab=repositories)**
